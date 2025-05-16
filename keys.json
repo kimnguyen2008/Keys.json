@@ -1,0 +1,11 @@
+{
+  "valid_keys": [
+    "abc123",
+    "vip456",
+    "pro789"
+  ],
+  "devices": {
+    "device_1_id": "abc123",
+    "device_2_id": "vip456"
+  }
+}
